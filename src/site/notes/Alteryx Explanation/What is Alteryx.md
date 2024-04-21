@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alteryx-explanation/what-is-alteryx/"}
+{"dg-publish":true,"permalink":"/alteryx-explanation/what-is-alteryx/","noteIcon":"","created":"2024-04-20T23:12:19.457+08:00","updated":"2024-04-20T23:31:01.444+08:00"}
 ---
 
 
