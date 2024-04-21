@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alteryx-explanation/why-alteryx/"}
+{"dg-publish":true,"permalink":"/alteryx-explanation/why-alteryx/","noteIcon":"","created":"2024-04-20T23:28:38.809+08:00","updated":"2024-04-21T01:35:10.757+08:00"}
 ---
 
 ## **Here are the reasons why you should use Alteryx:**
