@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alteryx-learning-path/alteryx-tool-mastery-index/","noteIcon":"","created":"2024-04-25T18:19:15.882+08:00","updated":"2024-04-25T18:21:51.244+08:00"}
+{"dg-publish":true,"permalink":"/alteryx-learning-path/alteryx-tool-mastery-index/","noteIcon":"","created":"2024-04-25T18:19:15.882+08:00","updated":"2024-04-25T18:48:14.724+08:00"}
 ---
 
 
