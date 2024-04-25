@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alteryx-tutorial-videos/tutorial-videos/","noteIcon":"","created":"2024-04-21T01:51:19.261+08:00","updated":"2024-04-25T14:34:18.221+08:00"}
+{"dg-publish":true,"permalink":"/alteryx-tutorial-videos/tutorial-videos/","noteIcon":"","created":"2024-04-21T01:51:19.261+08:00","updated":"2024-04-25T14:35:48.111+08:00"}
 ---
 
 Playlist: https://www.youtube.com/playlist?list=PLS1QulWo1RIYUA-HQ35BBPRa4R_ffxydP
@@ -13,3 +13,7 @@ Playlist: https://www.youtube.com/playlist?list=PLS1QulWo1RIYUA-HQ35BBPRa4R_ffxy
 ![Pasted image 20240425143337.png](/img/user/Pasted%20image%2020240425143337.png)
 
 ![Pasted image 20240425143351.png](/img/user/Pasted%20image%2020240425143351.png)
+
+![Pasted image 20240425143533.png](/img/user/Pasted%20image%2020240425143533.png)
+
+4. https://youtu.be/mpKb5DThDX4?list=PLS1QulWo1RIYUA-HQ35BBPRa4R_ffxydP (progressing)
